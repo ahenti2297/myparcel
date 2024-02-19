@@ -1,0 +1,22 @@
+{
+  "name": "namasteyreact",
+  "version": "1.0.0",
+  "description": "myfile",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahenti2297/myparcel.git"
+  },
+  "keywords": [
+    "map"
+  ],
+  "author": "Neha Tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahenti2297/myparcel/issues"
+  },
+  "homepage": "https://github.com/ahenti2297/myparcel#readme"
+}

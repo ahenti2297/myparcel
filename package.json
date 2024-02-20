@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/ahenti2297/myparcel/issues"
   },
-  "homepage": "https://github.com/ahenti2297/myparcel#readme"
+  "homepage": "https://github.com/ahenti2297/myparcel#readme",
+  "devDependencies": {}
 }

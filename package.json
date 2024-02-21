@@ -19,5 +19,7 @@
     "url": "https://github.com/ahenti2297/myparcel/issues"
   },
   "homepage": "https://github.com/ahenti2297/myparcel#readme",
-  "devDependencies": {}
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
 }
